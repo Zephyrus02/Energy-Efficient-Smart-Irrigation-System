@@ -16,8 +16,8 @@ dht DHT;
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "dev";  // type your wifi name
-char pass[] = "12345678";  // type your wifi password
+char ssid[] = "";  // type your wifi name
+char pass[] = "";  // type your wifi password
 
 BlynkTimer timer;
 
